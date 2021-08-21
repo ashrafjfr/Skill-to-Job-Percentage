@@ -96,3 +96,5 @@ with open('inf_1_scores.csv', 'w', newline='') as outputcsv:
 #             print(talentkey, end=' ')
 #             print(jobkey, end=' ')
 #             print(round(score(talentkey, jobkey), 1))
+
+# test for push
